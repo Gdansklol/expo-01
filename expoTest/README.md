@@ -101,7 +101,8 @@ Om problemet kvarstår eller om det uppstår andra problem, kontrollera Expo-dok
 
 
 
--  ```bash
+-  
+```bash
 npm install react-native-reanimated
 
 ```
