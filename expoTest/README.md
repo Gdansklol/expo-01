@@ -12,7 +12,9 @@ npx expo start
 ```
 
 
+
 - yarn 
+
 ```bash
 yarn create expo-app AwesomeProject
 
