@@ -5,9 +5,9 @@
 - npm 
 
 ```bash
-npx create-expo-app AwesomeProject
+npx create-expo-app AwesomeProject/current directory name 
 
-cd AwesomeProject
+cd AwesomeProject or expoTest 
 npx expo start
 ```
 
